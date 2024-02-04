@@ -1,0 +1,12 @@
+[package]
+name = "pkl"
+version = "0.0.0"
+edition = "2021"
+authors = ["Muhammad Fathir Irhas <mfathirirhas@gmail.com>"]
+description = ""
+license = "MIT"
+repository = ""
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
